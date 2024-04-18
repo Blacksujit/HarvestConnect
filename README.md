@@ -210,3 +210,20 @@ or run the code inside the file wsgi.py
 ## html ,css, javascript, sass
 ## python 
 ## SQL database
+
+
+# Team mates :(contrubutors)
+
+1.) sujit nirmal
+
+2.) abhishek kute
+
+3.) sanskar awati
+
+4.) manas kotian
+
+
+# License:
+
+
+MIT
