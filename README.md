@@ -43,7 +43,7 @@ This farmer management system is a two-way platform that facilitates direct inte
 ```
 https://github.com/Blacksujit/Farmer_management_system.git
 ```
-
+## Dependencies:
 ```
 pip install flask
 ```
@@ -59,8 +59,6 @@ pip install  mysql-client
 ```
 pip install flask-login
 ```
-
-# for dependencies Requirement's:
 
 ```
 pip install -r requirements.txt
@@ -151,3 +149,44 @@ or run the code inside the file wsgi.py
  Running on http://127.0.0.1:3000
 ``
 
+# Website will look like:
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/710222fd-ece4-4181-987d-2ebc15aa72b1)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/849cd88a-6ecb-4649-b938-9564a92d31ff)
+
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/bda0b480-0421-40db-aca0-f07341858a00)
+
+<br>
+
+![Screenshot 2024-04-18 225749](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/9510d547-1251-49e6-a5ae-f9d006ba447c)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/ce078818-1269-4469-a973-fdbf0d3b7795)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e434ad84-2d60-48a4-a596-e2cb9517219d)
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/1b41352a-04aa-40f2-8f4e-0a91f2841e8a)
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/b1ab7086-48b6-4c94-876d-a9a93686b412)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/be90a2e3-81de-4f73-b0d7-67263c02e406)
