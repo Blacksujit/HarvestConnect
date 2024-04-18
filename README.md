@@ -57,6 +57,11 @@ This farmer management system is a two-way platform that facilitates direct inte
 
 <br>
 
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/77860afc-8eae-4a8f-b6fc-a06d413ca5b7)
+
+<br>
+
+
 ![Screenshot 2024-04-18 225749](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/9510d547-1251-49e6-a5ae-f9d006ba447c)
 
 
