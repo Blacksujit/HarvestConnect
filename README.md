@@ -36,6 +36,54 @@ This farmer management system is a two-way platform that facilitates direct inte
 2.) Ability for administrators to add, edit, and manage farmer profiles.
 
 
+# Website will look like:
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/710222fd-ece4-4181-987d-2ebc15aa72b1)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e4ee1b28-f185-4c18-a7b1-1caf774daca4)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/fd50a40f-7d45-4760-871d-8eeabbd666e2)
+
+<br>
+
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/bda0b480-0421-40db-aca0-f07341858a00)
+
+<br>
+
+![Screenshot 2024-04-18 225749](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/9510d547-1251-49e6-a5ae-f9d006ba447c)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/ce078818-1269-4469-a973-fdbf0d3b7795)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e434ad84-2d60-48a4-a596-e2cb9517219d)
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/1b41352a-04aa-40f2-8f4e-0a91f2841e8a)
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/b1ab7086-48b6-4c94-876d-a9a93686b412)
+
+
+<br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/be90a2e3-81de-4f73-b0d7-67263c02e406)
+
+
+
 # Installation:
 
  ## Clone the repository:
@@ -148,49 +196,3 @@ or run the code inside the file wsgi.py
 ``
  Running on http://127.0.0.1:3000
 ``
-
-# Website will look like:
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/710222fd-ece4-4181-987d-2ebc15aa72b1)
-
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e4ee1b28-f185-4c18-a7b1-1caf774daca4)
-
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/fd50a40f-7d45-4760-871d-8eeabbd666e2)
-
-<br>
-
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/bda0b480-0421-40db-aca0-f07341858a00)
-
-<br>
-
-![Screenshot 2024-04-18 225749](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/9510d547-1251-49e6-a5ae-f9d006ba447c)
-
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/ce078818-1269-4469-a973-fdbf0d3b7795)
-
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e434ad84-2d60-48a4-a596-e2cb9517219d)
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/1b41352a-04aa-40f2-8f4e-0a91f2841e8a)
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/b1ab7086-48b6-4c94-876d-a9a93686b412)
-
-
-<br>
-
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/be90a2e3-81de-4f73-b0d7-67263c02e406)
