@@ -156,11 +156,15 @@ or run the code inside the file wsgi.py
 
 <br>
 
-![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/849cd88a-6ecb-4649-b938-9564a92d31ff)
-
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/e4ee1b28-f185-4c18-a7b1-1caf774daca4)
 
 
 <br>
+
+![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/fd50a40f-7d45-4760-871d-8eeabbd666e2)
+
+<br>
+
 
 ![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/bda0b480-0421-40db-aca0-f07341858a00)
 
