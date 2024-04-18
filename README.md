@@ -201,3 +201,12 @@ or run the code inside the file wsgi.py
 ``
  Running on http://127.0.0.1:3000
 ``
+
+
+
+# Tech Stack used:
+
+## Flask
+## html ,css, javascript, sass
+## python 
+## SQL database
