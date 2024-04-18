@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 # Database connection:
 
-## Downlode xamp server:
+## Download xamp server:
 
 https://sourceforge.net/projects/xampp/
 
