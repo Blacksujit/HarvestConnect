@@ -107,7 +107,7 @@ click on next next and install :   (installation window will look like this  )
 ![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/d071284e-b070-4ea2-94ab-28ea90b44586)
 
 
-## enter the database name ( specifically " farmer  " ) shown in input box 
+## enter the database name ( specifically " farmers  " ) shown in input box 
 
 
 ![image](https://github.com/Blacksujit/Farmer_management_system/assets/148805811/1af0d244-3ecb-44f2-9146-1fc3866ea8c7)
