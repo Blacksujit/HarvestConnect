@@ -215,7 +215,7 @@ or run the code inside the file wsgi.py
 ## SQL database
 
 
-# Team mates :(contriubutors)
+# Team mates :(contributors)
 
 1.) sujit nirmal
 
