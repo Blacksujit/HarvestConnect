@@ -219,13 +219,11 @@ or run the code inside the file wsgi.py
 
 # Team mates :(contributors)
 
-1.) sujit nirmal
+1.) abhishek kute
 
-2.) abhishek kute
+2.) sanskar awati
 
-3.) sanskar awati
-
-4.) manas kotian
+3.) manas kotian
 
 
 # License:
