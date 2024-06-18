@@ -6,7 +6,7 @@
 
 https://youtu.be/Vkbpff5I3j0?si=DpOsL8AqM8Tkmjmn
 
-# Farmer Management System
+# HarvestConnect
 
 ## Connecting Farmers. Nourishing Communities. 
 
