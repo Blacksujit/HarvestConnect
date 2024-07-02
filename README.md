@@ -30,8 +30,10 @@ This farmer management system is a two-way platform that facilitates direct inte
 
 ## User Management:
 
-1.) User registration and login for both consumers and farmers.
+1.) User registration and login for both consumers and farmers. 
+
 2.) Secure user authentication.
+
 3.) Role-based access control to restrict functionalities based on user type (consumer/farmer).
  
 ## Farmer Management:
