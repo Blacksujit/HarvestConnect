@@ -26,6 +26,43 @@ Difficulty reaching new customers beyond local markets. Reliance on middlemen wh
 
 This farmer management system is a two-way platform that facilitates direct interaction and product purchase between consumers and farmers. It aims to minimize the market gap, ensuring fairer prices for farmers and fresher, locally sourced products for consumers.
 
+# HLD Diagram / MVC Architecture of Project:
+
+```
+
+                           +----------------------------+
+                           |        User Interface      |
+                           | (Web Browser, Mobile App)  |
+                           +------------|---------------+
+                                        |
+                                        v
+                           +------------|---------------+
+                           |         API Gateway        |
+                           |  (Flask Application)       |
+                           +------------|---------------+
+                                        |
+                    +-------------------|-------------------+
+                    |                   |                   |
+                    v                   v                   v
+          +---------|---------+ +-------|---------+ +-------|---------+
+          | Product Management| | Order Management| |Resource Management|
+          +---------|---------+ +-------|---------+ +-------|---------+
+                    |                   |                   |
+                    v                   v                   v
+          +---------|---------+ +-------|---------+ +-------|---------+
+          |Product Database   | |Order Database   | |Resource Database |
+          | (PostgreSQL)      | | (PostgreSQL)    | | (PostgreSQL)     |
+          +---------|---------+ +-------|---------+ +-------|---------+
+                    |
+                    v
+          +---------|---------+
+          |User Authentication|
+          |Database (PostgreSQL)|
+          +--------------------+
+
+```
+
+
 # Features
 
 ## User Management:
