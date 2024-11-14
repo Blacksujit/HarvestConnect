@@ -4,7 +4,7 @@
 
 # Video Link:
 
-https://youtu.be/Vkbpff5I3j0?si=DpOsL8AqM8Tkmjmn
+[Live Link](https://youtu.be/Vkbpff5I3j0?si=DpOsL8AqM8Tkmjmn)
 
 # HarvestConnect
 
